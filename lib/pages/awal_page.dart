@@ -68,10 +68,10 @@ class AwalPage extends StatelessWidget {
                     ),
                   ),
                   onPressed: () {
-                    Navigator.pushNamed(context, '/image');
+                    Navigator.pushNamed(context, '/map');
                   },
                   child: Text(
-                    'GPS',
+                    'Map',
                     style: TextStyle(color: Colors.blue),
                   ),
                 ),
