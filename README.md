@@ -4,6 +4,10 @@ video program
 
 https://www.dropbox.com/s/i78bhs90lem61xo/WhatsApp%20Video%202023-07-11%20at%2010.28.57.mp4?dl=0
 
+soal
+
+![Untitled design](https://github.com/RonwasHere/test_indraco/assets/97945445/8be0f41f-1fd1-4841-adb3-f1a6bb18eb28)
+
 ![image](https://github.com/RonwasHere/test_indraco/assets/97945445/790ae752-0a67-49ed-b55a-f2419da7b54e)
 ![image](https://github.com/RonwasHere/test_indraco/assets/97945445/06931fde-0469-4588-9e27-b32c3cdf4646)
 
